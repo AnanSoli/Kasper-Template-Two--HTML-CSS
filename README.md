@@ -1,5 +1,7 @@
 # Kasper | Tempelate Two  #
 
+- Live Site URL:(https://anansoli.github.io/Kasper-Template-Two/)
+
 This is a practice for creating the main page template of a services provider website [Template provided by Graphberry ](https://www.graphberry.com/item/kasper-one-page-psd-template).
 
 ## Table of contents
@@ -21,7 +23,7 @@ Users should be able to:
 - See hover states for interactive elements.
 
 ### Links
-- Live Site URL:(https://anansoli.github.io)
+- Live Site URL:(https://anansoli.github.io/Kasper-Template-Two/)
 
 
 ### Built with
