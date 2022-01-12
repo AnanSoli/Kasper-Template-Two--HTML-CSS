@@ -1,6 +1,6 @@
 # Kasper | Tempelate Two  #
 
-This is a practice for creating the main page template of a services provider website [Template provided by Graphberry ] (https://www.graphberry.com/item/kasper-one-page-psd-template).
+This is a practice for creating the main page template of a services provider website [Template provided by Graphberry ](https://www.graphberry.com/item/kasper-one-page-psd-template).
 
 ## Table of contents
 
@@ -34,8 +34,8 @@ Users should be able to:
 
 
 ### Useful resources
--(https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
--(https://www.w3schools.com/)
+(https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF)
+(https://www.w3schools.com/)
 
 ## Author
 - Anan Ahmed - [@AnankeMOon]
