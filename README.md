@@ -1,6 +1,6 @@
 # Kasper | Tempelate Two  #
 
--## Live Site URL:(https://anansoli.github.io/Kasper-Template-Two/)
+-## Live Site URL:(https://anansoli.github.io/Kasper-Template-Two--HTML-CSS)
 
 This is a practice for creating the main page template of a services provider website [Template provided by Graphberry ](https://www.graphberry.com/item/kasper-one-page-psd-template).
 
